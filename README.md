@@ -1,10 +1,17 @@
-<p align="center"><img width="200" src="https://cdn.pixabay.com/photo/2017/09/25/18/56/social-media-2786261_1280.jpg"></p><hr>
+<p align="center"><img width="300px" src="https://github.com/Tobias-2006/Tobias-2006/blob/main/yR1QOVYpEk4.jpg"></p>
 <h1 align="center">Hi 👋, I'm Tobias</h1>
-<h3 align="center">German Hobby Developer</h3>
 
-### About
-- **Hobbies:** I am interested in machines
+<p align="center">I am a german hobby developer, who learns with great pleasure in this area.</p>
+<p align="center">My focus is on the programming languages <b>PHP</b> and <b>JavaScript</b></p>
+
+<p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Tobias-2006"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Tobias-2006"></p>
+
+## 👤 About me
+I am currently 15 years old and a student at a German school. <br>
+My current development focus is mainly on Minecraft BE plugins, discord bots and websites.
+- **Hobbies:** I like to swim and develop. I am also interested in machines
 - **Languages:** PHP, JavaScript
 
-#### How to reach me
+## 📎 How to reach me
 You can reach me via Discord: Tobias14#1903
+
